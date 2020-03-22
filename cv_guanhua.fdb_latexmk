@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1584500369 "/Users/charlie/Desktop/cv/cv_guanhua.tex" "/Users/charlie/Desktop/cv/cv_guanhua.pdf" "cv_guanhua" 1584500370
-  "/Users/charlie/Desktop/cv/cv_guanhua.aux" 1584500370 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/charlie/Desktop/cv/cv_guanhua.tex" 1584500367 5457 e003e063bc6e646a415bd5a1efe47f40 ""
+["pdflatex"] 1584836464 "/Users/charlie/Desktop/cv/cv_guanhua.tex" "/Users/charlie/Desktop/cv/cv_guanhua.pdf" "cv_guanhua" 1584836465
+  "/Users/charlie/Desktop/cv/cv_guanhua.aux" 1584836465 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/charlie/Desktop/cv/cv_guanhua.tex" 1584836462 5679 43a330fae36301504096a76f99a8191c ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -42,12 +42,12 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "cv_guanhua.aux" 1584500370 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "cv_guanhua.tex" 1584500367 5457 e003e063bc6e646a415bd5a1efe47f40 ""
+  "cv_guanhua.aux" 1584836465 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "cv_guanhua.tex" 1584836462 5679 43a330fae36301504096a76f99a8191c ""
   "resume.cls" 1581735241 4800 7d0890dd8b770ce0426136049ebec6c1 ""
   (generated)
+  "/Users/charlie/Desktop/cv/cv_guanhua.log"
   "cv_guanhua.pdf"
+  "/Users/charlie/Desktop/cv/cv_guanhua.pdf"
   "cv_guanhua.log"
   "cv_guanhua.aux"
-  "/Users/charlie/Desktop/cv/cv_guanhua.pdf"
-  "/Users/charlie/Desktop/cv/cv_guanhua.log"
